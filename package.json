@@ -1,0 +1,26 @@
+{
+  "name": "roseybot-main",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "12.5.1"
+     },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js",
+      "lint": "eslint ."
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dw0p/roseybot.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/dw0p/roseybot/issues"
+    },
+    "homepage": "https://github.com/dw0p/roseybot#readme"
+  }
