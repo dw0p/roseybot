@@ -1,0 +1,20 @@
+{
+  "name": "roseybot-main",
+  "version": "1.0.0",
+  "description": "mannn",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "roseybot"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "hiypi",
+  "license": "UNLICENSED"
+}
